@@ -74,9 +74,17 @@ graph LR
 ---
 
 ## 🛠️ Download
+- **Laporan Produksi (Android) |** Latest Version  
+![Release](https://img.shields.io/github/v/release/viwaretech/laporan-produksi-android?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/laporan-produksi-android?display_name=tag&label=Version&style=flat&color=4CAF50)  
+➡️ [Download](https://github.com/viwaretech/laporan-produksi-android/releases/latest/download/laporan-produksi.apk)
+
 - **Laporan Produksi (Windows) |** Latest Version  
 ![Release](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=tag&label=Version&style=flat&color=4CAF50)  
-➡️ [Download](https://github.com/viwaretech/laporan-produksi/releases/latest/download/laporan-produksi.zip)
+➡️ [Download Page](https://github.com/viwaretech/laporan-produksi-windows)
+
+- **Counter IDE (Windows) |** Latest Version  
+![Release](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/counter-ide?display_name=tag&label=Version&style=flat&color=4CAF50)  
+➡️ [Download Page](https://github.com/viwaretech/counter-ide)
 ---
 
 ## 📡 System Flow
